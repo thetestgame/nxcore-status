@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.nxcore.cloud): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Jordan Maxwell](https://www.jordan-maxwell.info/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for my personal cloud, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/thetestgame/nxcore-status/workflows/Uptime%20CI/badge.svg)](https://github.com/thetestgame/nxcore-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/thetestgame/nxcore-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/thetestgame/nxcore-status/actions?query=workflow%3A%22Response+Time+CI%22)
