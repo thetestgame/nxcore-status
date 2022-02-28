@@ -4,17 +4,19 @@
     "url": "$NXCORE_PORTAINER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 48,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {}
+    "time": 119,
+    "timeDay": 100,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   }
 ]
